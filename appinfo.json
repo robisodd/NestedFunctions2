@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "enableMultiJS": true,
+    "longName": "Nested C Functions",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Nested Functions",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "3d4719f3-5064-4007-977f-482c171c6efb",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
